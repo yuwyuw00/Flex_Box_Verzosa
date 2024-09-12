@@ -191,19 +191,20 @@
 .sec4inBox1{
     height: 50%;
     width: 100%;
-    display: flex;
+    flex-direction: column;
     justify-content: start ;
     align-items: end;
-    color: aliceblue;
+    border: rgb(255, 255, 255) solid 1px;
     background-color: rgb(0, 0, 0);
-    gap: 5px;
+    
 }
-.sec4inBox12{
+.sec4inBox2{
     height: 50%;
     width: 100%;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: rgb(255, 255, 255) solid 1px;
     background-color: rgb(255, 0, 0);
-    gap: 5px;
+    
 }
