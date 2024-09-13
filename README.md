@@ -1,1 +1,1 @@
-# School Web Developments
+# School Web Development
